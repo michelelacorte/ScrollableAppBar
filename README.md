@@ -57,8 +57,8 @@ Android API 21+
 **v1.0.0**
 - Support API 21+
 - Constructor method `ScrollableAppBar(Context context)` and `ScrollableAppBar(Context context, AttributeSet attrs)`
-- Added method `expandToolbar()`
-- Added method `collapseToolbar()`
+- Added method `expandToolbar()` default false
+- Added method `collapseToolbar()` default false
 - Added method `expandToolbar(boolean withAnimation)`
 - Added method `collapseToolbar(boolean withAnimation)`
 
