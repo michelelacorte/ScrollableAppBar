@@ -40,7 +40,7 @@ In your layout.xml replace your old AppBarLayout with:
 Then in your `MainActivity.java`
 
 ```
-CollapsingToolbarLayout appBarLayout = (ScrollableAppBar) findViewById(R.id.appbar);
+ScrollableAppBar appBarLayout = (ScrollableAppBar) findViewById(R.id.appbar);
 
 //To give the effect "in the middle" of the image (like gif)
 appBarLayout.collapseToolbar();
