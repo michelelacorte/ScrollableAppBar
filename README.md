@@ -11,19 +11,26 @@ This is a Scrollable App Bar for Android, this is a library to make your App Bar
 ScrollableAppBar is pushed to JCenter, so you just need to add the following dependency to your `build.gradle`.
 
 ```
-Coming Soon!
+compile 'it.michelelacorte.scrollableappbar:library:1.0.0'
 ```
 
 In alternative you can use AAR repository with:
 
 ```
-Coming Soon!
+allprojects {
+    repositories {
+        maven { url "https://dl.bintray.com/michelelacorte/maven/" }
+        jcenter()
+        mavenCentral()
+
+    }
+}
 ```
 
 And add this dependecies
 
 ```
-Coming Soon!
+compile 'it.michelelacorte.scrollableappbar:library:1.0.0@aar'
 ```
 In your layout.xml replace your old AppBarLayout with:
 
