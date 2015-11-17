@@ -1,6 +1,5 @@
 #ScrollableAppBar
 
-##COMING SOON!
 
 ![alt tag](http://i.giphy.com/3oEdv7ptcnY9VKatMY.gif)
 
