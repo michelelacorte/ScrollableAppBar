@@ -1,5 +1,6 @@
 #ScrollableAppBar
 
+[![alt tag](http://www.android-gems.com/badge/michelelacorte/ScrollableAppBar.svg)](http://www.android-gems.com/lib/michelelacorte/ScrollableAppBar?lib_id=718)
 
 ![alt tag](http://i.giphy.com/3oEdv7ptcnY9VKatMY.gif)
 
