@@ -1,5 +1,7 @@
 #ScrollableAppBar
 
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-ScrollableAppBar-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/2816)
+
 [![alt tag](http://www.android-gems.com/badge/michelelacorte/ScrollableAppBar.svg)](http://www.android-gems.com/lib/michelelacorte/ScrollableAppBar?lib_id=718)
 
 ![alt tag](http://i.giphy.com/3oEdv7ptcnY9VKatMY.gif)
