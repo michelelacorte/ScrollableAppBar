@@ -11,10 +11,9 @@
 
 [![alt tag](http://www.android-gems.com/badge/michelelacorte/ScrollableAppBar.svg)](http://www.android-gems.com/lib/michelelacorte/ScrollableAppBar?lib_id=718)
 
-![alt tag](https://github.com/michelelacorte/ScrollableAppBar/blob/master/ScrollableAppBarExample.gif)
-
-
 This is a Scrollable App Bar for Android, this is a library to make your App Bar extendable and retractable easier!!
+
+![alt tag](https://github.com/michelelacorte/ScrollableAppBar/blob/master/ScrollableAppBarExample.gif)
 
 ##DONATIONS
 
